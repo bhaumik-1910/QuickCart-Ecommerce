@@ -1,4 +1,4 @@
-# 🛒 QuickCart E-commerce (Next.js)
+# 🛒 QuickCart E-commerce (Next.js) 
 
 QuickCart is a **modern e-commerce web application** built using **Next.js**.  
 The project focuses on creating a clean, fast, and responsive shopping UI using
