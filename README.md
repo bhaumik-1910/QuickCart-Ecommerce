@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🛒 QuickCart E-commerce (Next.js)
 
-## Getting Started
+QuickCart is a **modern e-commerce web application** built using **Next.js**.  
+The project focuses on creating a clean, fast, and responsive shopping UI using
+Next.js features like routing, components, and optimized rendering.
 
-First, run the development server:
+This project is suitable for **frontend practice, portfolio showcase, and further backend/API integration**.
 
+---
+
+## 🌟 Features
+
+- 🛍️ Product listing UI  
+- 📄 Product detail pages  
+- 🛒 Shopping cart interface  
+- 🔍 Search & filter ready UI  
+- 📱 Fully responsive design  
+- ⚡ Fast performance with Next.js  
+
+---
+
+## 🛠 Tech Stack
+
+- **Next.js**
+- **React**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3 / Tailwind CSS**
+- **npm / yarn / pnpm**
+
+
+
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/bhaumik-1910/QuickCart-Ecommerce.git
+cd QuickCart-Ecommerce
+```
+
+### 2️⃣ Install dependencies
+
+Using **npm**:
+```bash
+npm install
+```
+
+Using **yarn**:
+```bash
+yarn install
+```
+
+Using **bun**:
+```bash
+bun install
+```
+
+### 3️⃣ Run the development server
+
+Using **npm**:
 ```bash
 npm run dev
-# or
+```
+
+Using **yarn**:
+```bash
 yarn dev
-# or
-pnpm dev
-# or
+```
+
+Using **bun**:
+```bash
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 4️⃣ Preview in browser
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```text
+http://localhost:5173
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📄 License
 
-To learn more about Next.js, take a look at the following resources:
+This project is licensed under the **MIT License**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👤 Author
 
-## Deploy on Vercel
+**Bhaumik Patel**  
+GitHub: [@bhaumik-1910](https://github.com/bhaumik-1910)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub!
+
